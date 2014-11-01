@@ -1,4 +1,3 @@
 forward
-========
 
-Just my GitHub pages.  WIP
+Just an HTML5 template.
